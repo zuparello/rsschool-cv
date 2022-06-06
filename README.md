@@ -1,3 +1,3 @@
-# rsschool-cv
+# Link to CV:
 
-# first commit into main
+https://zuparello.github.io/rsschool-cv/
