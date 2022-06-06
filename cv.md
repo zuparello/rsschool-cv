@@ -21,7 +21,31 @@ Dilligent, curious, and tireless.
 
 ### Skills
 
+- Project management
+- Staffing
+- Risk management
+- Project budgeting
+- Agile
+- V-model
+- ASPICE
+
 ### Code examples
+
+First _codewars_ assignment (Python):\
+\
+Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.\
+It should remove all values from list a, which are present in list b keeping their order.
+
+```
+def array_diff(a, b):
+    for i in b:
+        while True:
+            try:
+                a.remove(i)
+            except ValueError:
+                break
+    return a
+```
 
 ### Education
 
